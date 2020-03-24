@@ -90,11 +90,11 @@ hr{
    
 }
 .btn{
-    color: rgb(32, 5, 75);
+    color: white;
     text-decoration: none;
-    background-color: #66BFBF;
-    border-radius: 10px;
+    background-color:rgb(85, 84, 84);
     height: 30px;
+    border-radius: 5px;
 }
 
 .bottom-container{
