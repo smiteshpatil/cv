@@ -124,7 +124,8 @@ text-decoration: none;
     width: 20px;
 }
 
-.end-line{
+.copyright{
     padding-top: 10px;
+    font-size: 0.75rem;
 }
 
